@@ -694,6 +694,7 @@
         .social-icons > a.vine {
             background-color: var(--social-color-4) !important;
         }
+
         /* ******************************
 :: 5.0 PRELOADER AREA CSS
 ****************************** */
@@ -2877,6 +2878,11 @@
                     <div itemscope itemtype="https://schema.org/Product" class="welcome-intro">
                         <h1 itemprop="name" id="product-name"></h1>
                         <p class="my-4" id="short-info"></p>
+                        <p class="my-4">Цена: <span class="my-4" id="price"></span><span class="my-4"
+                                                                                         id="currency"></span></p>
+                        <p class="my-4">Наличност: <span class="my-4" id="availability"></span>
+                            <span class="my-4">Гаранция: <span class="my-4" id="warranty"></span></span>
+                        </p>
                         <a class="btn buy_link" href="" title="">Купи сега</a>
                     </div>
                 </div>
@@ -2974,6 +2980,14 @@
                 document.getElementById("product-name").textContent = product.name;
                 document.getElementById("short-info").textContent =
                     product.short_info;
+                document.getElementById("price").textContent =
+                    product.price;
+                document.getElementById("currency").textContent =
+                    product.currency;
+                document.getElementById("availability").textContent =
+                    product.availability;
+                document.getElementById("warranty").textContent =
+                    product.warranty;
                 // replace class="buy_link" href
                 const linkElements = document.querySelectorAll(".buy_link");
                 linkElements.forEach((link) => {
