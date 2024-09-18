@@ -1,0 +1,71 @@
+{
+	"base": {
+		"logo": "https://bautrax.bg/public/front/images/logo-new.webp",
+		"buy_link": "https://bautrax.bg/vtora-upotreba/1425/damper-ausa-d100aha-compact-germaniya-1000-kg-565-l-kubota-156-kw-prodajba"
+	},
+	"product": {
+		"name": "GEDA LIFT 250 Comfort",
+		"short_info": "Наклонен подемник - Надеждност и сигурен транспорт от GEDA Наклонени подемници от GEDA се произвеждат от десетилетия. Тяхната надеждност ги прави любимо транспортно устройство за покривни и строителни работници.",
+		"description": "Продукт X е висококачествено устройство с последно поколение характеристики.",
+		"price": "999.99",
+		"currency": "BGN",
+		"availability": "In Stock",
+		"warranty": "2 години",
+		"features": {
+			"model": [
+				"Товар",
+				"Товароносимост (материал)",
+				"Височина на повдигане",
+				"Скорост на повдигане",
+				"Захранване"
+			],
+			"GEDA LIFT 200 STANDARD": [
+				"Материал",
+				"200 кг",
+				"19 м",
+				"25м/мин",
+				"1 kW / 230 V / 50 Hz / 16 A"
+			],
+			"GEDA LIFT 250 COMFORT": [
+				"Материал",
+				"250 кг",
+				"19 m",
+				"30м/мин",
+				"1.3 kW / 230 V / 50 Hz / 16 A"
+			],
+			"GEDA FIXLIFT 250": [
+				"Материал",
+				"250 кг",
+				"19 м",
+				"19 м/мин / 38 м/мин",
+				"0.6 kW / 1.2 kW / 230 V / 50 Hz / 16 A"
+			]
+		},
+		"images": {
+			"main": "https://www.geda.de/typo3temp/_processed_/7/5/csm_GEDA_Fixlift_250_web_04_4e579b10ec.jpg",
+			"gallery": [
+				"https://www.geda.de/typo3temp/_processed_/b/f/csm_GEDA_Lift_web_02_aad1f2c79b.jpg",
+				"https://www.geda.de/typo3temp/_processed_/d/5/csm_GEDA_Lift_web_04_526f4ee46b.jpg",
+				"https://www.geda.de/typo3temp/_processed_/5/d/csm_GEDA_Lift_200_Standard_web_03_b48154d0ba.jpg"
+			]
+		},
+		"faq": [
+			{
+				"question": "Каква е гаранцията на продукта?",
+				"answer": "Продуктът се предлага с 2 години гаранция."
+			},
+			{
+				"question": "Има ли други модели на продукта освен изброените в таблицата с характеристиките?",
+				"answer": "За в момента не"
+			},
+			{
+				"question": "Има ли опция за разсрочено пращане?",
+				"answer": "Към момента не"
+			},
+			{
+				"question": "Включен ли  е трансорт и доставка в цената на продукта?",
+				"answer": "Да"
+			}
+		]
+	}
+}
